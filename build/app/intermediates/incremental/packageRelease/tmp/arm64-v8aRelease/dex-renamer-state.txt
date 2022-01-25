@@ -1,0 +1,4 @@
+#Mon Jan 24 17:48:04 IST 2022
+base.0=C\:\\CICD\\flutter_ci_cd_practice\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
